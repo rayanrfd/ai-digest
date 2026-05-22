@@ -20,3 +20,7 @@ wheels/
 .trigger
 
 __init__.py
+
+.DS_Store
+
+.gitignore
